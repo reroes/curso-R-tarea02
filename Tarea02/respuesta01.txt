@@ -1,0 +1,7 @@
+Los tipo de vectores generados son
+Pesos, tipo:	 double 
+Alturas, tipo:	 double 
+Genero, tipo:	 character 
+Edades, tipo	 double 
+¿Cuantos estudiantes mayores a 25 años hay en el aula? 
+20

@@ -1,0 +1,2 @@
+¿De que tipo son los datos de esta matriz?
+double

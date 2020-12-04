@@ -1,0 +1,6 @@
+character
+
+El tipo del vector es character; los vectores deben estar 
+# compuestos por un solo tipo de elementos, 
+# si un vector tiene más de un tipo de elemento estos son coaccionados 
+# al tipo más flexible. 
